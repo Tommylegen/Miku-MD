@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['6289505053854']
+global.OwnerNumber = ['6289505054287']
+global.ownertag = ['6289505054287']
+global.BotName = "Patrick"
+global.packname = "Patrick bot"
+global.author = "By: Rajadev"
+global.OwnerName = "Rajadev"
+global.BotSourceCode = "Kamu nanyea? SC nya buy ya ketik aja .owner"
+global.SupportGroupLink = "https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "West Bengal, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.location = "Banda Aceh, Indonesia"
+global.reactmoji = "🤡"
+global.themeemoji = "🤓"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "Sedang diproses.."
 global.lolhuman = "KaysaS"
 
 
@@ -90,7 +90,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 25
 }
 
 
