@@ -1516,7 +1516,7 @@ case 'support': case 'supportgc':
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* Kamu nanyea? Yaudah biar kasih tau ya, Sc nya beli ya Ketik aja .owner`)
+    reply(`*My Source Code:* https://github.com`)
     break
 
 case 'nsfwmenu':
