@@ -14,7 +14,7 @@ global.BotName = "Patrick"
 global.packname = "Patrick bot"
 global.author = "By: Rajadev"
 global.OwnerName = "Rajadev"
-global.BotSourceCode = "Kamu nanyea? SC nya buy ya ketik aja .owner"
+global.BotSourceCode = "https://github.com"
 global.SupportGroupLink = "https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A"
 global.sessionName = "session"
 
